@@ -1,4 +1,4 @@
-Full-Stack Developer with background in Mechatronics, PLC & CNC Programming, and Music
+Full-Stack Developer with background in Engineering, and Music
 
 - 🌱 I’m currently learning Python
 - 🎵 I’m currently singing in https://www.instagram.com/rambukk420/
