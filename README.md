@@ -1,4 +1,4 @@
-Full-Stack Mobile & Web Developer with a background in Engineering, and Music
+Full-Stack Mobile & Web Developer with a background in Music
 
 - Flutter, Laravel, React, Tailwind, Javascript, NodeJS, MongoDB, Express, Firebase
 
